@@ -1,0 +1,3 @@
+# ignore .DS_Store and mywork.c~
+*.DS_Store
+*mywork.c~
